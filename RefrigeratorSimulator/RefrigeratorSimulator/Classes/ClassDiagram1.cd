@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RefrigeratorSimulator.Classes.Camera">
+    <Position X="6.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAgAAAAAAAAAQAAAAEAAA=</HashCode>
+      <FileName>Classes\Camera.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RefrigeratorSimulator.Classes.CameraDevice">
+    <Position X="1.5" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACAAAAAIAAAAAAAAAAiAAAAAAAAAQgAAAEQAA=</HashCode>
+      <FileName>Classes\CameraDevice.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RefrigeratorSimulator.Classes.Compressor">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Compressor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RefrigeratorSimulator.Classes.DefrostMachine" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\DefrostMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RefrigeratorSimulator.Classes.Microprocessor">
+    <Position X="11" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAACAAAAAAAAAQAAAAAAAQAAAAAAAAEQCA=</HashCode>
+      <FileName>Classes\Microprocessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RefrigeratorSimulator.Classes.Refrigerator">
+    <Position X="13" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAACgAAAAAAAAAAAQQAAAAAQAA=</HashCode>
+      <FileName>Classes\Refrigerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RefrigeratorSimulator.Classes.RefrigeratorMode">
+    <Position X="8.75" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAABAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\RefrigeratorMode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RefrigeratorSimulator.Classes.RefrigeratorModeProvider">
+    <Position X="8.75" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\RefrigeratorMode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RefrigeratorSimulator.Classes.Speaker">
+    <Position X="11.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Speaker.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RefrigeratorSimulator.Classes.ConsoleNotifier">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ConsoleNotifier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RefrigeratorSimulator.RefrigeratorViewModel">
+    <Position X="13.75" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RefrigeratorViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="RefrigeratorSimulator.Interfaces.INotify">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\INotify.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RefrigeratorSimulator.Interfaces.ITemperatureController">
+    <Position X="3.5" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Interfaces\ITemperatureController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

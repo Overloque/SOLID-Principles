@@ -1,0 +1,60 @@
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.exe
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.deps.json
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.runtimeconfig.json
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.dll
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.pdb
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator_MarkupCompile.cache
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator_MarkupCompile.lref
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.g.resources
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.dll
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.pdb
+C:\Users\Ivan\Desktop\sooqa\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.genruntimeconfig.cache
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.exe
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.deps.json
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.runtimeconfig.json
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.runtimeconfig.dev.json
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.dll
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.pdb
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.csprojAssemblyReference.cache
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\App.g.cs
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator_MarkupCompile.cache
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator_MarkupCompile.lref
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.g.resources
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.AssemblyInfoInputs.cache
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.AssemblyInfo.cs
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.csproj.CoreCompileInputs.cache
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.dll
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.pdb
+F:\Учеба\Проектирование и арзитектура программных систем\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.genruntimeconfig.cache
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.exe
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.deps.json
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.runtimeconfig.json
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.runtimeconfig.dev.json
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.dll
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\bin\Debug\netcoreapp3.1\RefrigeratorSimulator.pdb
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.csprojAssemblyReference.cache
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\App.g.cs
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator_MarkupCompile.cache
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator_MarkupCompile.lref
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.g.resources
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.AssemblyInfoInputs.cache
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.AssemblyInfo.cs
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.csproj.CoreCompileInputs.cache
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.dll
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.pdb
+F:\Учеба\Проектирование и арзитектура программных систем\Лабораторная №3\RefrigeratorSimulator\RefrigeratorSimulator\obj\Debug\netcoreapp3.1\RefrigeratorSimulator.genruntimeconfig.cache

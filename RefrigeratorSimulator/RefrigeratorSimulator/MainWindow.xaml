@@ -1,0 +1,54 @@
+﻿<Window x:Class="RefrigeratorSimulator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RefrigeratorSimulator"
+        xmlns:classes="clr-namespace:RefrigeratorSimulator.Classes"
+        mc:Ignorable="d"
+        Title="Холодильник" Height="300" Width="832" SizeToContent="WidthAndHeight">
+    <Window.DataContext>
+        <local:RefrigeratorViewModel />
+    </Window.DataContext>
+    <Window.Resources>
+        <ObjectDataProvider x:Key="RefrigeratorModeProvider" ObjectType="{x:Type classes:RefrigeratorModeProvider}" MethodName="get_RefrigeratorModes"></ObjectDataProvider>
+    </Window.Resources>
+    <StackPanel Orientation="Horizontal">
+        <StackPanel Orientation="Vertical">
+            <TextBlock Text="Холодильные камеры" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" />
+            <DataGrid ItemsSource="{Binding Refrigerator.StandardMicroprocessors}" AutoGenerateColumns="False"
+                      SelectionMode="Single" Margin="5">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Имя камеры" Binding="{Binding Name}" IsReadOnly="True" />
+                    <DataGridTextColumn Header="Текущая температура" Binding="{Binding Camera.Temperature}"
+                                        IsReadOnly="True" />
+                    <DataGridTextColumn Header="Задать температуру" Binding="{Binding Temperature}" />
+                    <DataGridComboBoxColumn
+                        Header="Режим работы"
+                        ItemsSource="{Binding Source={StaticResource ResourceKey=RefrigeratorModeProvider}}"
+                        DisplayMemberPath="Name"
+                        SelectedValueBinding="{Binding RefrigeratorMode, UpdateSourceTrigger=PropertyChanged}" />
+                    <DataGridTextColumn Header="Температура компрессора" Binding="{Binding Compressor.Temperature}" />
+                    <DataGridTextColumn Header="Температура нагревателя" Binding="{Binding DefrostMachine.Temperature}" />
+                </DataGrid.Columns>
+            </DataGrid>
+            <TextBlock Text="Морозильные камеры" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" />
+            <DataGrid ItemsSource="{Binding Path=Refrigerator.FreezerMicroprocessors}" AutoGenerateColumns="False"
+                      SelectionMode="Single" Margin="5">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Имя камеры" Binding="{Binding Name}" IsReadOnly="True" />
+                    <DataGridTextColumn Header="Текущая температура" Binding="{Binding Camera.Temperature}"
+                                        IsReadOnly="True" />
+                    <DataGridTextColumn Header="Задать температуру" Binding="{Binding Temperature}" />
+                    <DataGridComboBoxColumn
+                        Header="Режим работы"
+                        ItemsSource="{Binding Source={StaticResource ResourceKey=RefrigeratorModeProvider}}"
+                        DisplayMemberPath="Name"
+                        SelectedValueBinding="{Binding RefrigeratorMode, UpdateSourceTrigger=PropertyChanged}" />
+                    <DataGridTextColumn Header="Температура компрессора" Binding="{Binding Compressor.Temperature}" />
+                    <DataGridTextColumn Header="Температура нагревателя" Binding="{Binding DefrostMachine.Temperature}" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </StackPanel>
+</Window>
